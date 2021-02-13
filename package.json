@@ -1,0 +1,20 @@
+{
+  "name": "selfmadesubject",
+  "version": "1.0.0",
+  "description": "This is just some PoC for myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhombach/selfmadeSubject.git"
+  },
+  "author": "Martin Hombach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhombach/selfmadeSubject/issues"
+  },
+  "homepage": "https://github.com/mhombach/selfmadeSubject#readme",
+  "type": "module"
+}
